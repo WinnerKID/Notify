@@ -1,0 +1,12 @@
+#This is python script that lets users create a notifier to help them remember things throughout the day.
+
+#Author: Richard
+# Philosophy
+# The philosophy behind this project is create reminders throughout the day to help users remember whatever
+tasks they'd like to be notified. I specifically made this for myself for the purpose of trading futures. I do not have a 
+mentor over my shoulder asking me questions like "why did you buy here" or "the market is overbought". This is where notify comes 
+into play and helps people like me be reminded of my actions. It can be tough to follow our plans when we have busy days or we 
+have many things going on, with notify it'll be a useful tool to aid people in their daily life.
+
+# How to use
+# python 
